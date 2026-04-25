@@ -95,7 +95,7 @@
 }
 .header-div  .icon1{
     color: gray;
-    margin-left: 15px;
+    margin-left: 25px;
 }
 .home{
     width: 100%;
@@ -161,14 +161,14 @@
   border-radius: 15px;
 }
 .info-contianer{
-    width: 90%;
+    width: 95%;
     height:300px;
     margin: auto;
     margin-top: 180px;
     overflow: auto;
 }
 .info-contianer  .info-div1,.info-div2,.info-div3{
-    width: 300px;
+    width: 280px;
     height: 230px;
     margin-left: 7%;
     margin-top: 20px;
@@ -698,12 +698,12 @@
     overflow: auto;
 }
 .news-div{
-    width: 22%;
+    width: 24%;
     height: 70%;
     border: 2px solid black;
     border-radius: 15px;
     float: left;
-    margin-left: 9%;
+    margin-left: 7.5%;
     margin-top: 30px;
     padding-bottom: 20px;
     position: relative;
@@ -750,20 +750,18 @@
 }
 .news-icon{
     margin-top: 10px;
-    text-align: center;
     position: relative;
     z-index: 2;
 }
 .icon-new{
     display: inline-block;
-    margin: 5px;
-    margin-left:0px;
+    margin: 3px;
 }
 .news-icon .icon1{
-    margin-left: -9%;
+  
 }
 .news-icon i{
-    font-size: 25px;
+    font-size: 20px;
     color: blue;
 }
 .icon-new  i,.news-span{
@@ -840,7 +838,7 @@
 .link-span{
    margin-top: 12px;
    display: block;
-   margin-right: 50%;
+   margin-right: 48%;
    text-align: center;
    font-family: Arial, Helvetica, sans-serif;
    font-size: 15px;
