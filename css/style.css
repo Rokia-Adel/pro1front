@@ -118,8 +118,9 @@
     width: 50%;
     height: 30%;
     position: absolute;
-    margin-left: 25%;
-    margin-top: 18%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
     text-align: center;
 }
 .title2,.text1{
@@ -133,14 +134,15 @@
     border-radius: 20px;
     font-size: 25px;
     border: none;
-    margin-top: 20px;
+    margin-top: 40px;
     background-color: rgb(69, 69, 209);
     opacity: 0.8;
     color:#f8f9fa;
 }
 .button1:hover,.button2:hover{
-    opacity: 0.5;
-    color: rgba(25, 10, 77, 1);
+    background-color: transparent;
+    border: 2px solid rgb(69, 69, 209);
+    color: rgba(19, 19, 85, 0.938);
 }
 .info{
     width: 100%;
